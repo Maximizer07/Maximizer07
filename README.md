@@ -36,5 +36,5 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maximizer07" alt="maximizer07" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximizer07&show_icons=true&locale=en" alt="maximizer07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maximizer07&repo=Computer-shop-develop" alt="maximizer07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maximizer07&repo=Mailspace" alt="maximizer07" /></p>
+<p><a href="https://github.com/Maximizer07/Computer-shop-develop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maximizer07&repo=Computer-shop-develop" alt="maximizer07" /></a></p>
+<p><a href="https://github.com/Maximizer07/MailSpace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Maximizer07&repo=Mailspace" alt="maximizer07" /></a></p>
